@@ -248,8 +248,8 @@ class NodeWriter {
    private void writeStart(OutputNode node) throws Exception {
       writeComment(node);
       writeName(node);
-      writeNamespaces(node);
       writeAttributes(node);
+      writeNamespaces(node);
    }
    
    /**
