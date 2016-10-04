@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.simpleframework</groupId>
+	<groupId>com.github.orlleite</groupId>
 	<artifactId>simple-xml</artifactId>
 	<packaging>jar</packaging>
 	<version>2.7.1</version>
@@ -17,10 +17,10 @@
 	</licenses>
 	
 	<repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-    
+		<id>jitpack.io</id>
+		<url>https://jitpack.io</url>
+	</repository>
+	
 	<scm>
 		<url>http://simple.svn.sourceforge.net/viewvc/simple/tags/simple-xml-2.7.1</url>
 		<developerConnection>scm:svn:https://simple.svn.sourceforge.net/svnroot/simple/tags/simple-xml-2.7.1</developerConnection>
