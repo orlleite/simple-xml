@@ -10,11 +10,6 @@
     <url>http://simple.sourceforge.net</url>
     <description>Simple is a high performance XML serialization and configuration framework for Java</description>
     
-    <repository>
-        <id>jitpack.io</id>
-        <url>https://jitpack.io</url>
-    </repository>
-    
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
